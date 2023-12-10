@@ -5,7 +5,7 @@ import CardContainer from "../../ui/CardContainer/CardContainer";
 const PrimaryAccordian = ({ title, subtitle }) => {
   return (
     <>
-      <CardContainer title={title} subtitle={subtitle}>
+      <CardContainer title="Primary Accordion" subtitle={subtitle}>
         <div className="mt-5">
           <PrimaryAccrodianCard
             rounded="rounded-md rounded-b-none"

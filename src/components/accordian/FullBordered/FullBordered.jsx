@@ -10,8 +10,7 @@ const FullBorder = () => {
   return (
     <>
       <CardContainer
-        title="Border Bottom
-"
+        title="Full Bordered"
         subtitle="The accordion component allows the user to show and hide sections of related content on a page. Check out code for detail of usage."
       >
         <div className="border mt-5 border-grayOne rounded-md border-b-0">
