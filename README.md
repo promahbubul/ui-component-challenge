@@ -11,3 +11,5 @@
 - Primary Accordion
 - Advanced Accordion
 
+<img src="./src/assets/readme_image/accordion.png" alt="">
+
